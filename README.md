@@ -1,5 +1,6 @@
 ## Heeeello, my name is Paulo Ricardo.  
-A few months ago I started to study front-end development. I have always been interested in programming and decided to become a programmer. I'm not a programmer yet, that's my goal for 2023.
+A few months ago I started to study front-end development. I have always been interested in programming and decided to become a programmer. 
+I'm not a programmer yet, that's my goal for 2023.
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and I want to learn ReactJS soon
 
