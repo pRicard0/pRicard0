@@ -6,6 +6,5 @@ I'm not a programmer yet, that's my goal for 2023.
 
 <div>
   <a href="https://github.com/pRicard0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pRicard0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pRicard0&layout=compact&langs_count=16&theme=dark"/>
 </div>
