@@ -1,10 +1,15 @@
-## Heeeello, my name is Paulo Ricardo.  
-A few months ago I started to study front-end development. I have always been interested in programming and decided to become a programmer. 
-I'm not a programmer yet, that's my goal for 2023.
+<h1 align="center">Heeeello, my name is <strong>Paulo Ricardo</strong>.</h1>  
+<p>I started to learn Frontend a year ago. I have always been passionate about this area since I was a child. I'm currently creating projects and helping people on <a href="https://www.frontendmentor.io/profile/pRicard0" target="_blank">Frontend Mentor<a>.</p>
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Tailwind CSS and I want to learn ReactJS soon
+<section>
+  <h2>I'm currently learning:</h2>
+    <ul>
+      <li>HTML ( Improving my accessibility skills using ARIA and semantic tags )</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>CSS with TailwindCSS</li>
+      <li>React and Next</li>
+    </ul>
+</section>
 
-<div>
-  <a href="https://github.com/pRicard0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pRicard0&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
